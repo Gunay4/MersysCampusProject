@@ -9,5 +9,4 @@ import io.cucumber.testng.CucumberOptions;
         glue = {"StepDefinitions"}
 )
 public class TestRunnerRegression extends AbstractTestNGCucumberTests {
-
 }
